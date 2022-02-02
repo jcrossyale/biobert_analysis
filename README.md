@@ -6,12 +6,12 @@
 
 ## Code Organization
 
-> - `data`: contains medical report data [LINK TO THAT REPO] used in model fine-tuning and analysis, clinical stop words, and saved accuracy and entropy metrics during evaluation
-> - `models`: checkpoints of the best performing BERT and BioBERT models after hyperparameter optimization
-> - `notebooks`: 
-> > - `model_training.ipynb`: code to train and fine-tune BERT and BioBERT
-> > - `model_evaluation.ipynb`: code to run various model evaluations, visualize word importances, perform post-training clinical stopword masking, and other analyses
+- `data`: contains medical report data [LINK TO THAT REPO] used in model fine-tuning and analysis, clinical stop words, and saved accuracy and entropy metrics during evaluation
+- `notebooks`: 
+> - `model_training.ipynb`: code to train and fine-tune BERT and BioBERT
+> - `model_evaluation.ipynb`: code to run various model evaluations, visualize word importances, perform post-training clinical stopword masking, and other analyses
 > - `scripts`: same functionality as in the notebooks, in executable python scripts / functions
+- `models`: where checkpoints of the best performing BERT and BioBERT models after hyperparameter optimization are stored
 
 
 ## Dependencies
@@ -25,8 +25,9 @@ Two options available to run the code; on Google colab and/or locally on your ma
 
 #### Option 1) Google Colab 
 
-Model training notebook: [https://colab.research.google.com/drive/1uPIi-OVchs_8A-SNcQtLfwelr0ccsz19?usp=sharing]
-Model evaluation/analysis notebook: [https://colab.research.google.com/drive/1Hfy58JvyPbx55lKKhQAzzrhJIbN_Io0j?usp=sharing]
+[Model training notebook](https://colab.research.google.com/drive/1uPIi-OVchs_8A-SNcQtLfwelr0ccsz19?usp=sharing)
+
+[Model evaluation/analysis notebook](https://colab.research.google.com/drive/1Hfy58JvyPbx55lKKhQAzzrhJIbN_Io0j?usp=sharing)
 
 #### Option 2) Local Machine 
 
