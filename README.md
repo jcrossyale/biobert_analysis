@@ -18,7 +18,7 @@ Two options available to run the code; on Google colab and/or locally on your ma
 
 #### Option 2) Local Machine 
 
-Notebooks: You can run the `model_training.ipynb` or `model_evaluation.ipynb` notebooks as is, changing directory paths when needed.
+Notebooks: You can run the `model_training.ipynb` or `model_evaluation.ipynb` notebooks on your local machine. Directory paths will have to be adjusted as needed.
 
 
 ## Code Organization
