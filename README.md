@@ -23,7 +23,7 @@ Notebooks: You can run the `model_training.ipynb` or `model_evaluation.ipynb` no
 
 ## Code Organization
 
-- `data`: contains medical report data [LINK TO THAT REPO] used in model fine-tuning and analysis, clinical stop words, and saved accuracy and entropy metrics during evaluation
+- `data`: contains medical transcriptions and other medical report data used in model fine-tuning and analysis, clinical stop words, and saved accuracy and entropy metrics during evaluation
 - `notebooks`: 
 > - `model_training.ipynb`: code to train and fine-tune BERT and BioBERT
 > - `model_evaluation.ipynb`: code to run various model evaluations, visualize word importances, perform post-training clinical stopword masking, and other analyses
