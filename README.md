@@ -1,5 +1,5 @@
 
-# Toward Model Interpretability in Medical NLP: A systematic analysis of BioBERT
+# Toward Model Interpretability in Medical NLP: A Systematic Analysis of BioBERT
 
 **LING380: Topics in Computational Linguistics Final Project**
 
