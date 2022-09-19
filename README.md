@@ -1,6 +1,8 @@
 
 # Toward Model Interpretability in Medical NLP
+
 **LING380: Topics in Computational Linguistics Final Project**
+
 **James Cross (j.cross@yale.edu) and Daniel Kim (d.j.kim@yale.edu), December 2021**
 
 
